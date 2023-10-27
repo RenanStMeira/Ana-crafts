@@ -2,6 +2,7 @@
     display: flex;
     flex-direction: column;
     align-items: center;
+    margin-bottom: -79px;
 }
 
 .title_container {
@@ -16,7 +17,7 @@
     padding: 10px;
 }
 
-.container_offers a {
+.link_pay {
     color: white;
     background-color: green;
     border: none;
@@ -25,8 +26,14 @@
     font-size: 25px;
 }
 
+.link_pay:hover {
+    background-color: rgb(4, 71, 4);
+    padding-left: 35px;
+    padding-right: 35px;
+}
+
 .container_offers p, h2 {
-    font-size: 27px;
+    font-size: 24px;
     margin-bottom: 18px;
     font-weight: bold;
 }
@@ -34,7 +41,7 @@
 .title_offers {
     width: 100%;
     text-align: center;
-    font-size: 50px;
+    font-size: 40px;
 }
 
 .offers {

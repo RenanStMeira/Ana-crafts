@@ -2,6 +2,7 @@ section {
     display: flex;
     justify-content: center;
     background-color: gray;
+    margin-top: 80px;    
 }
 
 section h1 {
