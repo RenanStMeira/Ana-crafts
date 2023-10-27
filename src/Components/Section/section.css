@@ -1,0 +1,9 @@
+section {
+    display: flex;
+    justify-content: center;
+    background-color: gray;
+}
+
+section h1 {
+    padding: 12px;
+}
