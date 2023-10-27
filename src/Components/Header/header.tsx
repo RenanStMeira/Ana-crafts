@@ -1,11 +1,18 @@
+import { Link } from 'react-router-dom';
 import WhatsImage from '../../../images/whstass.png'
 import Email from '../../../images/email.png'
+import Home from '../../../images/home.png';
 
 import './header.css';
 
 export default function Header() {
     return(
         <header className='container_header'>
+            <div>
+                <Link to="/">
+                    <img className='img_home' src={Home} alt=""/>
+                </Link>
+            </div>
             <div className='container_whats'>
                 <img src={WhatsImage} alt="" width={50}/>
                 <a href="https://vitejs.dev/guide/">WhatsApp</a>
@@ -17,9 +24,7 @@ export default function Header() {
             </div>
 
             <div className='container_info'>
-                <h3>Como comprar</h3>
-                <h3>Troca e devolução</h3>
-                <h3>Fale conosco</h3>
+                <Link to="contato">Fale conosco</Link>
             </div>
         </header>
     )

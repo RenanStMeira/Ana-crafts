@@ -1,0 +1,42 @@
+.banner-container {
+    background-color: #FBDE08;
+    color: #fff;
+    text-align: center;
+    padding: 40px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.img_ml {
+    width: 220px;
+}
+
+.banner-text {
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.banner-text h2 {
+    font-size: 36px;
+    margin-bottom: 20px;
+}
+
+.banner-text p {
+    font-size: 18px;
+    margin-bottom: 30px;
+}
+
+.cta-button {
+    display: inline-block;
+    background-color: #fff;
+    color: #f8b400;
+    font-size: 28px;
+    padding: 10px 20px;
+    border-radius: 5px;
+    text-decoration: none;
+    transition: background-color 0.3s ease;
+}
+
+.cta-button:hover {
+    background-color: #f0f0f0;
+}

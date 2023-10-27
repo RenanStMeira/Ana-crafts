@@ -15,8 +15,8 @@ export default function PayMentMethod() {
                     <img src={Frete} alt="" width={130}/>
                 </div>
                 <div>
-                     <h1>Frete Grátis Para Todo Brasil</h1>
-                    <p>Válido Para Compras Acima de R$110,00</p>
+                    <h1>Frete Grátis Para Todo Brasil</h1>
+                    <p>Válido Para Compras Acima de R$ 110,00</p>
                 </div>
             </div>
 

@@ -3,6 +3,13 @@
     justify-content: space-evenly;
     padding-top: 15px;
     align-items: center;
+    margin-bottom: 25px;
+}
+
+.container_pay p {
+    font-weight: bold;
+    font-size: 20px;
+    color: brown;
 }
 
 .box1 {
