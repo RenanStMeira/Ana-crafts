@@ -1,0 +1,9 @@
+.slide_item {
+  display: block;
+  justify-content: center;
+  align-items: center;
+  margin: 10px 185px;
+  width: 80%;
+  height: 60vh;
+  object-fit: cover;
+}

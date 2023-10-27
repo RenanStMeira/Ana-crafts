@@ -1,0 +1,49 @@
+.section_offers {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.title_container {
+    margin-bottom: 20px;
+}
+
+.container_offers {
+    width: 30%;
+    margin: 10px;
+    text-align: center;
+    border: 1px solid #ccc;
+    padding: 10px;
+}
+
+.container_offers a {
+    color: white;
+    background-color: green;
+    border: none;
+    border-radius: 15px;
+    padding: 8px;
+    font-size: 25px;
+}
+
+.container_offers p, h2 {
+    font-size: 27px;
+    margin-bottom: 18px;
+    font-weight: bold;
+}
+
+.title_offers {
+    width: 100%;
+    text-align: center;
+    font-size: 50px;
+}
+
+.offers {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.offers_image {
+    width: 350px;
+    height: 290px;
+}

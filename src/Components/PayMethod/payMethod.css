@@ -1,0 +1,18 @@
+.container_pay {
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 15px;
+    align-items: center;
+}
+
+.box1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.box1, h1, p {
+    align-items: center;
+    text-align: center;
+}
+

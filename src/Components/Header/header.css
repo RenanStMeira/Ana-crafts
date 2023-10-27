@@ -1,0 +1,39 @@
+.container_header {
+    display: flex;
+    justify-content: space-around;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+    margin: 3px;
+}
+
+p {
+    color: black;
+    font-size: 20px;
+    margin: 3px;
+}
+
+.container_whats {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container_email {
+    display: flex;
+    justify-content: center;
+    align-items: center;  
+}
+
+.container_info {
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+}
+
+.container_info h3 {
+    margin-left: 19px;
+}
