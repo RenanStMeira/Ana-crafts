@@ -1,0 +1,9 @@
+.links_nav {
+    font-size: 28px;
+    padding: 25px;
+    margin-top: 18px;
+}
+
+.links_nav:hover {
+    color: brown;
+}
