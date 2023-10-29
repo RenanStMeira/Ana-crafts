@@ -45,7 +45,7 @@ const Header: React.FC = () => {
       </div>
       <div className='container_whats'>
         <img src={WhatsImage} alt='' width={50} />
-        <a href='https://vitejs.dev/guide/'>WhatsApp</a>
+        <a href='https://api.whatsapp.com/send?phone=5518935002592' target='_blank'>WhatsApp</a>
       </div>
 
       <div className='container_email'>
