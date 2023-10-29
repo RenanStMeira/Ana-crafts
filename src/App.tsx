@@ -9,6 +9,7 @@ import Cozinha from './Pages/Cozinha/cozinha';
 import Banheiro from './Pages/Banheiro/banheiro';
 import Caminho from './Pages/Caminho/caminho';
 import Passadeira from './Pages/Passadeira/passadeira';
+import Account from './Pages/Account/Account';
 
 const App: React.FC = () => {
   return (
@@ -22,6 +23,7 @@ const App: React.FC = () => {
           <Route path="/banheiro" element={<Banheiro />}/>
           <Route path="/caminho" element={<Caminho />}/>
           <Route path="/passadeiras" element={<Passadeira />}/>
+          <Route path="/cadastro" element={<Account />}/>
         </Routes>
       </Router>
       <WhatsAppButton />
