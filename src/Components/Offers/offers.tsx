@@ -19,42 +19,42 @@ export default function Offers() {
                     <img className='offers_image' src={Passadeira} alt="" />
                     <h2>Passadeira</h2>
                     <p>R$: 130,00</p>
-                    <a href="" className='link_pay'>Comprar</a>
+                    <a href="https://api.whatsapp.com/send?phone=5518935002592" target='_blank' className='link_pay'>Encomendar</a>
                     <ButtonMl />
                 </div>
                 <div className='container_offers'>
                     <img className='offers_image' src={CaminhoMesa} alt="" />
                     <h2>Caminho de mesa</h2>
                     <p>R$: 130,00</p>
-                    <a href="" className='link_pay'>Comprar</a>
+                    <a href="https://api.whatsapp.com/send?phone=5518935002592" target='_blank' className='link_pay'>Encomendar</a>
                     <ButtonMl />
                 </div>
                 <div className='container_offers'>
                     <img className='offers_image' src={JogoBanheiro} alt="" />
                     <h2>Jogo de banheiro</h2>
                     <p>R$: 130,00</p>
-                    <a href="" className='link_pay'>Comprar</a>
+                    <a href="https://api.whatsapp.com/send?phone=5518935002592" target='_blank' className='link_pay'>Encomendar</a>
                     <ButtonMl />
                 </div>
                 <div className='container_offers'>
                     <img className='offers_image' src={Cozinha} alt=""/>
                     <h2>Jogo de cozinha</h2>
                     <p>R$: 130,00</p>
-                    <a href="" className='link_pay'>Comprar</a>
+                    <a href="https://api.whatsapp.com/send?phone=5518935002592" target='_blank' className='link_pay'>Encomendar</a>
                     <ButtonMl />
                 </div>
                 <div className='container_offers'>
                     <img className='offers_image' src={Sala} alt=""/>
                     <h2>Tapete para Sala</h2>
                     <p>R$: 130,00</p>
-                    <a href="" className='link_pay'>Comprar</a>
+                    <a href="https://api.whatsapp.com/send?phone=5518935002592" target='_blank' className='link_pay'>Encomendar</a>
                     <ButtonMl />
                 </div>
                 <div className='container_offers'>
                     <img className='offers_image' src={CaminhoMesa} alt="" />
                     <h2>Passadeira</h2>
                     <p>R$: 130,00</p>
-                    <a href="" className='link_pay'>Comprar</a>
+                    <a href="https://api.whatsapp.com/send?phone=5518935002592" target='_blank' className='link_pay'>Encomendar</a>
                     <ButtonMl />
                 </div>
             </div>
