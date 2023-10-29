@@ -55,3 +55,22 @@ button:hover{
     padding-left: 60px;
     padding-right: 60px;
 }
+
+.option_container {
+    padding: 10px;
+    font-size: 20px;
+    font-weight: bold;
+    background-color: rgba(128, 128, 128, 0.658);
+    color: brown;
+}
+
+.option1 {
+    color: brown;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.option {
+    font-size: 25px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}

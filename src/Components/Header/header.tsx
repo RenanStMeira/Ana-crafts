@@ -24,7 +24,7 @@ export default function Header() {
             </div>
 
             <div className='container_info'>
-                <Link to="contato">Fale conosco</Link>
+                <Link to="/contato">Fale conosco</Link>
             </div>
         </header>
     )

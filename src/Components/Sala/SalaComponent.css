@@ -1,0 +1,42 @@
+.sala {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.title_sala {
+    display: flex;
+    text-decoration: underline;
+}
+
+.connteiner_sala {
+    display: flex;
+    width: 80%;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.image_sala {
+    width: 325px;
+    padding: 25px;
+    border: solid 1px gray;
+}
+
+.info_sala {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.info_sala p, h3 {
+    font-size: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.title_contact {
+    color: brown;
+    font-size: 25px;
+    text-decoration: underline;
+}
